@@ -9,3 +9,4 @@ Used MySQL to query the business questions
 # Files included
 - CountryTable.csv (Real Dataset on which project analysis were performed)
 - Zomato.csv (Real Dataset on which project analysis were performed)
+- Zomato-Case Study.sql (MySQL file)
