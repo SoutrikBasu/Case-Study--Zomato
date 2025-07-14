@@ -7,5 +7,5 @@ Used MySQL to query the business questions
 - MySQL (Data querying)
 
 # Files included
-- CountryTable.xlsx (Real Dataset on which project analysis were performed)
-- Zomato.xlsx (Real Dataset on which project analysis were performed)
+- CountryTable.csv (Real Dataset on which project analysis were performed)
+- Zomato.csv (Real Dataset on which project analysis were performed)
